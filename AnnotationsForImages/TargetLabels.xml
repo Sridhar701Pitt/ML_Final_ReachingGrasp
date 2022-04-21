@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>243738</id>
+      <name>TargetLabels</name>
+      <size>95</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-04-21 21:35:00.803855+01:00</created>
+      <updated>2022-04-21 22:11:40.909945+01:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>94</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>364457</id>
+          <start>0</start>
+          <stop>94</stop>
+          <url>https://cvat.org/?id=364457</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>wolfeeric416</username>
+        <email>wolfe.eric416@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>target</name>
+          <color>#fa3253</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>start_here</name>
+          <color>#24b353</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-04-21 22:12:15.561712+01:00</dumped>
+  </meta>
+  <image id="0" name="Target-1.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="1518.92" ytl="966.01" xbr="1715.54" ybr="2320.41" rotation="355.80" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="3340.81" ytl="1059.01" xbr="4015.54" ybr="1694.35" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Target-10.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1360.92" ytl="1462.87" xbr="2035.66" ybr="2098.21" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3326.42" ytl="266.65" xbr="3523.05" ybr="1621.05" rotation="325.40" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Target-11.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2494.08" ytl="256.80" xbr="2690.71" ybr="1611.20" rotation="320.70" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="553.21" ytl="1625.40" xbr="1227.95" ybr="2260.73" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Target-12.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2449.93" ytl="99.59" xbr="2646.56" ybr="1286.21" rotation="339.50" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="341.43" ytl="847.24" xbr="1016.17" ybr="1482.57" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Target-13.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2269.71" ytl="89.39" xbr="2466.34" ybr="1247.54" rotation="357.00" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="218.30" ytl="448.30" xbr="824.10" ybr="995.00" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Target-14.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="435.01" ytl="960.51" xbr="1085.10" ybr="1551.50" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2611.87" ytl="508.27" xbr="2808.49" ybr="1763.69" rotation="353.80" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Target-15.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3400.30" ytl="803.48" xbr="3596.93" ybr="2157.88" rotation="352.20" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1134.37" ytl="1236.32" xbr="1809.11" ybr="1871.65" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Target-16.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1528.38" ytl="610.83" xbr="2168.60" ybr="1206.80" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3686.50" ytl="271.90" xbr="3883.13" ybr="1567.12" rotation="351.50" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Target-17.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="799.46" ytl="1521.97" xbr="1474.20" ybr="2157.31" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3134.34" ytl="1207.34" xbr="3330.97" ybr="2561.74" rotation="356.40" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="Target-18.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1247.65" ytl="1127.97" xbr="1922.38" ybr="1763.30" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3518.50" ytl="793.63" xbr="3715.13" ybr="2148.03" rotation="352.90" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="Target-19.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1026.02" ytl="699.48" xbr="1656.40" ybr="1300.30" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3158.97" ytl="251.88" xbr="3355.60" ybr="1606.27" rotation="350.30" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="Target-2.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="952.14" ytl="1093.49" xbr="1626.88" ybr="1728.83" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3193.44" ytl="734.53" xbr="3390.07" ybr="2088.93" rotation="355.50" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="Target-20.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2893.01" ytl="769.01" xbr="3089.64" ybr="2123.40" rotation="352.50" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="651.71" ytl="1260.94" xbr="1326.45" ybr="1896.28" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="Target-21.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2296.41" ytl="355.31" xbr="2493.04" ybr="1645.71" rotation="358.40" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="164.13" ytl="748.74" xbr="799.50" ybr="1354.50" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="Target-22.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="696.04" ytl="1182.14" xbr="1370.77" ybr="1817.48" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2947.19" ytl="852.73" xbr="3143.82" ybr="2207.13" rotation="357.60" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="Target-23.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2688.40" ytl="330.78" xbr="2885.03" ybr="1611.90" rotation="355.80" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="548.28" ytl="753.66" xbr="1188.50" ybr="1334.80" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="Target-24.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3607.15" ytl="847.81" xbr="3803.78" ybr="2202.21" rotation="353.40" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1326.45" ytl="1182.14" xbr="2001.18" ybr="1817.48" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="Target-25.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3710.58" ytl="517.83" xbr="3907.21" ybr="1872.23" rotation="348.50" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1503.75" ytl="955.59" xbr="2178.49" ybr="1590.92" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="Target-26.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3444.62" ytl="911.84" xbr="3641.25" ybr="2266.23" rotation="353.00" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1159.00" ytl="1295.42" xbr="1833.73" ybr="1930.75" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="Target-27.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2784.66" ytl="773.93" xbr="2981.29" ybr="2128.33" rotation="352.60" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="528.58" ytl="1280.64" xbr="1203.32" ybr="1915.98" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="Target-28.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3034.59" ytl="256.85" xbr="3231.21" ybr="1581.85" rotation="355.10" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="893.04" ytl="650.23" xbr="1538.20" ybr="1226.50" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="Target-29.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3690.88" ytl="439.03" xbr="3887.51" ybr="1793.42" rotation="353.20" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1508.68" ytl="783.21" xbr="2148.90" ybr="1393.90" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="Target-3.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1168.84" ytl="1088.57" xbr="1833.70" ybr="1704.20" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3424.92" ytl="734.53" xbr="3621.55" ybr="2088.93" rotation="353.80" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="Target-30.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1518.53" ytl="1044.24" xbr="2163.70" ybr="1674.60" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3749.98" ytl="621.26" xbr="3946.61" ybr="1975.65" rotation="350.20" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="Target-31.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3602.23" ytl="1010.34" xbr="3798.85" ybr="2364.73" rotation="352.10" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1301.82" ytl="1408.70" xbr="1976.56" ybr="2044.03" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="Target-32.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="587.69" ytl="1595.85" xbr="1262.42" ybr="2231.18" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2917.64" ytl="1123.61" xbr="3114.27" ybr="2478.01" rotation="353.00" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="Target-33.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2809.29" ytl="739.46" xbr="3005.92" ybr="2093.86" rotation="354.60" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="582.76" ytl="1172.29" xbr="1247.60" ybr="1797.80" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="Target-34.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2991.52" ytl="286.35" xbr="3188.14" ybr="1640.75" rotation="353.00" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="838.86" ytl="748.73" xbr="1493.90" ybr="1339.70" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="Target-35.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3479.10" ytl="286.35" xbr="3675.73" ybr="1640.75" rotation="351.50" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1311.67" ytl="738.88" xbr="1961.80" ybr="1339.70" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="Target-36.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3518.50" ytl="222.32" xbr="3715.13" ybr="1576.72" rotation="348.50" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1375.70" ytl="719.18" xbr="2020.90" ybr="1339.70" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="Target-37.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1011.24" ytl="1054.09" xbr="1651.50" ybr="1679.60" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3227.92" ytl="645.88" xbr="3424.55" ybr="2000.28" rotation="353.40" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="Target-38.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="469.48" ytl="1472.72" xbr="1134.40" ybr="2108.10" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2764.96" ytl="1015.26" xbr="2961.59" ybr="2369.66" rotation="353.50" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="Target-39.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="494.11" ytl="729.03" xbr="1114.70" ybr="1325.00" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2636.91" ytl="291.28" xbr="2833.54" ybr="1645.67" rotation="356.30" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="Target-4.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1518.53" ytl="1246.17" xbr="2193.26" ybr="1881.50" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3799.23" ytl="837.96" xbr="3995.86" ybr="2192.36" rotation="350.80" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="Target-40.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="902.89" ytl="1142.74" xbr="1577.63" ybr="1778.08" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3173.74" ytl="729.61" xbr="3370.37" ybr="2084.01" rotation="353.30" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="Target-41.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3365.82" ytl="118.90" xbr="3562.45" ybr="1473.29" rotation="351.90" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1213.17" ytl="556.66" xbr="1848.50" ybr="1147.70" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="Target-42.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="932.44" ytl="758.58" xbr="1562.90" ybr="1329.90" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3109.72" ytl="340.53" xbr="3306.35" ybr="1694.92" rotation="354.70" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="Target-43.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1311.67" ytl="930.96" xbr="1947.00" ybr="1531.80" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3538.20" ytl="562.15" xbr="3734.83" ybr="1916.55" rotation="354.60" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="Target-44.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1626.88" ytl="600.98" xbr="2257.30" ybr="1206.80" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3809.08" ytl="242.03" xbr="4005.71" ybr="1596.42" rotation="352.10" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="Target-45.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1533.30" ytl="1127.97" xbr="2178.50" ybr="1748.50" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3794.31" ytl="739.46" xbr="3990.93" ybr="2093.86" rotation="351.20" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="Target-46.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="996.47" ytl="1418.54" xbr="1671.20" ybr="2053.88" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3306.72" ytl="951.24" xbr="3503.35" ybr="2305.63" rotation="350.90" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="Target-47.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="425.16" ytl="1423.47" xbr="1099.89" ybr="2058.81" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2730.49" ytl="897.06" xbr="2927.11" ybr="2251.46" rotation="352.60" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="Target-48.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="80.40" ytl="1123.04" xbr="755.14" ybr="1758.38" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2326.63" ytl="685.28" xbr="2523.26" ybr="2039.68" rotation="356.70" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="Target-49.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="36.08" ytl="812.76" xbr="676.30" ybr="1423.50" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2188.73" ytl="384.85" xbr="2385.36" ybr="1739.25" rotation="358.00" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="Target-5.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="937.37" ytl="793.06" xbr="1567.80" ybr="1393.90" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3085.09" ytl="301.13" xbr="3281.72" ybr="1655.52" rotation="352.30" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="Target-50.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="484.26" ytl="546.81" xbr="1104.80" ybr="1128.00" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2612.29" ytl="138.60" xbr="2808.91" ybr="1493.00" rotation="357.90" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="Target-51.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="976.77" ytl="743.81" xbr="1651.50" ybr="1379.15" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3168.82" ytl="340.53" xbr="3365.45" ybr="1694.92" rotation="354.20" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="Target-52.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3685.95" ytl="695.13" xbr="3882.58" ybr="2049.53" rotation="352.90" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1424.95" ytl="1063.94" xbr="2099.69" ybr="1699.27" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="Target-53.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="3296.87" ytl="966.01" xbr="3493.50" ybr="2320.41" rotation="353.80" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="971.84" ytl="1344.67" xbr="1646.58" ybr="1980.01" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="Target-54.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="297.11" ytl="1679.58" xbr="971.84" ybr="2314.91" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2636.91" ytl="1098.99" xbr="2833.54" ybr="2453.39" rotation="350.60" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="Target-55.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="70.55" ytl="1152.59" xbr="715.70" ybr="1768.20" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2306.93" ytl="734.53" xbr="2503.56" ybr="2088.93" rotation="359.20" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="Target-56.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="257.70" ytl="743.81" xbr="898.00" ybr="1359.40" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2434.98" ytl="306.05" xbr="2631.61" ybr="1660.45" rotation="356.70" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="Target-57.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="976.77" ytl="778.29" xbr="1602.30" ybr="1398.80" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3168.82" ytl="419.33" xbr="3365.45" ybr="1773.73" rotation="356.20" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="Target-58.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1006.32" ytl="1196.92" xbr="1681.05" ybr="1832.25" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3291.95" ytl="783.78" xbr="3488.58" ybr="2138.18" rotation="353.40" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="Target-59.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1026.02" ytl="1625.40" xbr="1700.75" ybr="2260.73" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3407.88" ytl="1126.21" xbr="3604.51" ybr="2640.81" rotation="351.90" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="Target-6.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="459.63" ytl="1157.52" xbr="1114.70" ybr="1792.85" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2710.79" ytl="842.88" xbr="2907.41" ybr="2197.28" rotation="358.80" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="Target-60.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="996.47" ytl="1191.99" xbr="1646.60" ybr="1807.60" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3282.10" ytl="773.93" xbr="3478.72" ybr="2128.33" rotation="353.50" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="Target-61.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1016.17" ytl="689.63" xbr="1641.70" ybr="1285.60" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3158.97" ytl="897.06" xbr="3355.60" ybr="2251.46" rotation="16.60" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="Target-62.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1252.57" ytl="369.50" xbr="1878.10" ybr="921.10" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2783.37" ytl="1320.00" xbr="2980.00" ybr="2821.26" rotation="48.90" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="Target-63.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1848.51" ytl="152.80" xbr="2478.90" ybr="724.10" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2449.63" ytl="1423.19" xbr="2646.26" ybr="3072.62" rotation="80.50" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="Target-64.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="2286.84" ytl="152.80" xbr="2917.20" ybr="724.10" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2149.28" ytl="1469.71" xbr="2345.91" ybr="3004.83" rotation="102.20" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="Target-65.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="2823.67" ytl="354.73" xbr="3478.70" ybr="945.70" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="1709.79" ytl="1266.31" xbr="1906.42" ybr="2756.38" rotation="134.70" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="Target-66.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="3158.58" ytl="645.31" xbr="3813.60" ybr="1236.30" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="1502.13" ytl="837.09" xbr="1698.76" ybr="2317.72" rotation="342.10" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="Target-67.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="3271.85" ytl="980.21" xbr="3936.70" ybr="1600.72" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="1479.52" ytl="621.26" xbr="1676.14" ybr="1975.65" rotation="4.40" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="Target-68.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="3380.20" ytl="335.03" xbr="4025.39" ybr="911.30" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="1681.44" ytl="59.80" xbr="1878.07" ybr="1414.19" rotation="358.80" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="Target-69.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="3306.33" ytl="1300.34" xbr="3981.07" ybr="1935.68" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="1425.62" ytl="871.30" xbr="1622.25" ybr="2448.96" rotation="2.10" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="Target-7.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1104.82" ytl="1448.10" xbr="1779.55" ybr="2083.43" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3415.07" ytl="970.94" xbr="3611.70" ybr="2325.33" rotation="350.50" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="Target-70.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="2533.09" ytl="1300.34" xbr="3207.83" ybr="1935.68" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="666.71" ytl="980.24" xbr="863.34" ybr="2419.50" rotation="3.80" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="Target-71.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1951.93" ytl="1398.84" xbr="2626.67" ybr="2034.18" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="64.19" ytl="1037.97" xbr="260.82" ybr="2557.73" rotation="6.40" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="Target-72.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="2006.11" ytl="714.26" xbr="2656.20" ybr="1320.00" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="243.32" ytl="414.40" xbr="439.95" ybr="1768.80" rotation="5.20" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="Target-73.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="2247.44" ytl="1029.46" xbr="2922.17" ybr="1664.80" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="425.55" ytl="813.33" xbr="622.18" ybr="2167.73" rotation="3.40" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="Target-74.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="992.48" ytl="931.42" xbr="1189.11" ybr="2429.01" rotation="4.30" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="2872.92" ytl="1329.89" xbr="3547.66" ybr="1965.23" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="Target-75.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="1620.50" ytl="1085.34" xbr="1817.12" ybr="2654.41" rotation="339.00" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="3276.80" ytl="768.44" xbr="3946.59" ybr="1393.90" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="Target-76.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="2567.57" ytl="399.05" xbr="3212.80" ybr="990.10" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="1051.38" ytl="883.06" xbr="1248.00" ybr="2424.92" rotation="332.80" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="Target-77.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="3217.68" ytl="921.11" xbr="3892.41" ybr="1556.45" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="1561.75" ytl="1322.18" xbr="1758.38" ybr="2853.00" rotation="338.60" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="Target-78.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1991.33" ytl="871.86" xbr="2666.07" ybr="1507.20" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="314.03" ytl="1341.54" xbr="510.66" ybr="2833.12" rotation="340.70" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="Target-79.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1710.60" ytl="546.81" xbr="2350.90" ybr="1152.60" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="396.53" ytl="1505.65" xbr="593.16" ybr="2946.33" rotation="320.60" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="Target-8.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="794.54" ytl="724.11" xbr="1434.80" ybr="1295.40" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2957.04" ytl="286.35" xbr="3153.67" ybr="1640.75" rotation="354.90" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="Target-80.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="3030.53" ytl="374.43" xbr="3665.90" ybr="980.20" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="1750.47" ytl="1176.76" xbr="1947.10" ybr="2698.92" rotation="320.10" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="Target-81.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="2690.70" ytl="300.55" xbr="3355.60" ybr="906.30" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2357.49" ytl="1628.67" xbr="2554.11" ybr="3253.69" rotation="289.10" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="Target-82.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1991.33" ytl="206.98" xbr="2641.40" ybr="778.30" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2284.81" ytl="1618.83" xbr="2481.43" ybr="3234.07" rotation="89.30" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="Target-83.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1474.20" ytl="472.93" xbr="2114.50" ybr="1054.10" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3105.95" ytl="1408.88" xbr="3302.58" ybr="2879.36" rotation="47.30" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="Target-84.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="730.51" ytl="669.93" xbr="1390.50" ybr="1265.90" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2823.87" ytl="947.26" xbr="3020.50" ybr="2425.06" rotation="20.90" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="Target-85.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2291.50" ytl="1240.32" xbr="2488.13" ybr="2755.00" rotation="11.10" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="16.38" ytl="1275.72" xbr="691.11" ybr="1911.05" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="Target-86.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="538.43" ytl="1093.49" xbr="1213.17" ybr="1728.83" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2745.26" ytl="271.58" xbr="2941.89" ybr="1625.97" rotation="342.10" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="Target-87.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="848.71" ytl="1635.25" xbr="1523.45" ybr="2270.58" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2045.90" ytl="-353.91" xbr="2242.53" ybr="1000.49" rotation="292.90" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="Target-88.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2447.52" ytl="-396.27" xbr="2644.15" ybr="1052.75" rotation="272.80" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="2094.76" ytl="1861.80" xbr="2808.90" ybr="2566.10" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="Target-89.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="3074.90" ytl="1669.72" xbr="3808.69" ybr="2359.20" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2646.76" ytl="-437.64" xbr="2843.39" ybr="916.76" rotation="76.80" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="Target-9.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1656.43" ytl="630.53" xbr="2301.60" ybr="1211.70" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3823.86" ytl="237.10" xbr="4020.48" ybr="1591.50" rotation="351.20" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="Target-90.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="218.30" ytl="1379.15" xbr="902.90" ybr="2034.20" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2218.28" ytl="15.47" xbr="2414.91" ybr="1369.87" rotation="323.70" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="Target-91.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="410.38" ytl="1576.15" xbr="1104.80" ybr="2241.00" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2449.76" ytl="207.55" xbr="2646.39" ybr="1561.95" rotation="324.80" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="Target-92.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1587.48" ytl="1866.73" xbr="2291.80" ybr="2551.30" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2663.71" ytl="-232.97" xbr="2860.34" ybr="1171.59" rotation="290.80" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="Target-93.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="1030.94" ytl="694.56" xbr="1705.70" ybr="1300.30" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="3271.04" ytl="689.76" xbr="3467.67" ybr="2129.15" rotation="8.70" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="Target-94.jpeg" width="4032" height="3024">
+    <box label="start_here" occluded="0" source="manual" xtl="2989.85" ytl="1384.46" xbr="3186.48" ybr="2943.91" rotation="63.90" z_order="0">
+    </box>
+    <box label="target" occluded="0" source="manual" xtl="1814.03" ytl="192.20" xbr="2449.40" ybr="768.40" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="Target-95.jpeg" width="4032" height="3024">
+    <box label="target" occluded="0" source="manual" xtl="3281.70" ytl="571.43" xbr="3951.52" ybr="1192.00" z_order="0">
+    </box>
+    <box label="start_here" occluded="0" source="manual" xtl="2052.58" ytl="1438.38" xbr="2249.21" ybr="2982.08" rotation="318.70" z_order="0">
+    </box>
+  </image>
+</annotations>

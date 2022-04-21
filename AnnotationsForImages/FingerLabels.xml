@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>243730</id>
+      <name>Fingers</name>
+      <size>140</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-04-21 20:43:55.870751+01:00</created>
+      <updated>2022-04-21 21:24:31.739686+01:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>139</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>364446</id>
+          <start>0</start>
+          <stop>139</stop>
+          <url>https://cvat.org/?id=364446</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>wolfeeric416</username>
+        <email>wolfe.eric416@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>finger</name>
+          <color>#33ddff</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-04-21 22:14:43.994268+01:00</dumped>
+  </meta>
+  <image id="0" name="LeftFinger-1.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="289.97" ytl="124.13" xbr="351.85" ybr="196.62" rotation="44.20" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="LeftFinger-10.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1603.27" ytl="219.88" xbr="1668.69" ybr="293.01" rotation="64.20" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="LeftFinger-11.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1592.46" ytl="287.90" xbr="1663.83" ybr="367.18" rotation="59.70" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="LeftFinger-12.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1534.61" ytl="433.52" xbr="1612.40" ybr="523.69" rotation="56.90" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="LeftFinger-13.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1395.52" ytl="564.78" xbr="1482.08" ybr="653.18" rotation="54.00" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="LeftFinger-14.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1214.10" ytl="643.92" xbr="1291.89" ybr="733.10" rotation="46.40" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="LeftFinger-15.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1062.56" ytl="675.73" xbr="1131.51" ybr="762.36" rotation="39.00" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="LeftFinger-16.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="885.77" ytl="704.02" xbr="965.33" ybr="792.42" rotation="42.20" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="LeftFinger-17.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="723.12" ytl="668.66" xbr="797.37" ybr="751.76" rotation="36.40" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="LeftFinger-18.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="549.72" ytl="590.63" xbr="626.93" ybr="673.72" rotation="38.70" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="LeftFinger-19.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="367.76" ytl="483.03" xbr="433.17" ybr="559.05" rotation="36.90" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="LeftFinger-2.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="489.75" ytl="792.42" xbr="560.46" ybr="877.28" rotation="55.70" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="LeftFinger-20.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="265.22" ytl="414.08" xbr="335.93" ybr="491.87" rotation="40.80" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="LeftFinger-21.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="245.77" ytl="346.90" xbr="312.95" ybr="424.69" rotation="36.70" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="LeftFinger-22.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="254.61" ytl="198.39" xbr="323.56" ybr="281.48" rotation="39.40" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="LeftFinger-23.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="419.03" ytl="168.33" xbr="489.75" ybr="246.12" rotation="36.90" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="LeftFinger-24.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="650.63" ytl="231.98" xbr="724.88" ybr="308.00" rotation="35.10" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="LeftFinger-25.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="868.09" ytl="260.27" xbr="945.88" ybr="336.29" rotation="29.80" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="LeftFinger-26.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1053.72" ytl="233.75" xbr="1124.44" ybr="311.54" rotation="22.60" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="LeftFinger-27.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1181.02" ytl="161.26" xbr="1251.73" ybr="237.28" rotation="26.10" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="LeftFinger-28.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1223.45" ytl="127.67" xbr="1304.77" ybr="209.00" rotation="28.00" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="LeftFinger-29.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1200.46" ytl="143.58" xbr="1276.49" ybr="230.21" rotation="25.90" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="LeftFinger-3.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="616.89" ytl="630.53" xbr="694.98" ybr="712.12" rotation="65.00" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="LeftFinger-30.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1140.35" ytl="224.91" xbr="1207.54" ybr="302.70" rotation="33.10" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="LeftFinger-31.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1028.97" ytl="308.00" xbr="1094.39" ybr="389.33" rotation="32.00" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="LeftFinger-32.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="878.70" ytl="408.77" xbr="954.72" ybr="493.64" rotation="29.70" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="LeftFinger-33.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="712.54" ytl="545.85" xbr="791.40" ybr="636.72" rotation="37.20" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="LeftFinger-34.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="585.22" ytl="635.07" xbr="661.24" ybr="727.01" rotation="33.80" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="LeftFinger-35.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="486.21" ytl="757.06" xbr="560.46" ybr="836.62" rotation="34.10" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="LeftFinger-36.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="392.51" ytl="852.53" xbr="468.53" ybr="944.46" rotation="28.60" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="LeftFinger-37.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="344.56" ytl="862.13" xbr="430.67" ybr="948.76" rotation="32.60" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="LeftFinger-38.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="323.56" ytl="718.17" xbr="399.58" ybr="795.96" rotation="35.60" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="LeftFinger-39.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="295.60" ytl="569.32" xbr="373.79" ybr="650.65" rotation="32.00" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="LeftFinger-4.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="712.34" ytl="489.66" xbr="777.80" ybr="568.06" rotation="61.70" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="LeftFinger-40.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="270.52" ytl="466.94" xbr="344.77" ybr="546.67" rotation="32.80" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="LeftFinger-41.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="252.84" ytl="410.37" xbr="327.09" ybr="490.10" rotation="32.40" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="LeftFinger-42.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="419.03" ytl="362.63" xbr="493.28" ybr="442.37" rotation="37.70" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="LeftFinger-43.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="650.63" ytl="309.59" xbr="724.88" ybr="389.33" rotation="31.30" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="LeftFinger-44.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="869.86" ytl="291.91" xbr="944.11" ybr="371.65" rotation="28.20" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="LeftFinger-45.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1066.10" ytl="263.62" xbr="1140.35" ybr="343.36" rotation="30.60" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="LeftFinger-46.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1280.02" ytl="231.80" xbr="1354.28" ybr="311.54" rotation="24.60" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="LeftFinger-47.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1447.98" ytl="171.69" xbr="1522.23" ybr="251.42" rotation="25.30" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="LeftFinger-48.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1538.14" ytl="115.12" xbr="1612.40" ybr="194.85" rotation="23.90" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="LeftFinger-49.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1589.41" ytl="76.22" xbr="1663.67" ybr="155.96" rotation="23.90" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="LeftFinger-5.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="804.44" ytl="314.90" xbr="878.70" ybr="394.63" rotation="61.10" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="LeftFinger-50.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1607.09" ytl="97.44" xbr="1681.35" ybr="177.17" rotation="23.90" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="LeftFinger-51.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1591.18" ytl="214.12" xbr="1665.44" ybr="293.86" rotation="23.60" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="LeftFinger-52.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1612.40" ytl="320.20" xbr="1686.65" ybr="399.93" rotation="21.70" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="LeftFinger-53.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1617.70" ytl="445.72" xbr="1691.96" ybr="525.46" rotation="23.80" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="LeftFinger-54.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1615.93" ytl="528.82" xbr="1690.19" ybr="608.55" rotation="17.60" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="LeftFinger-55.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1589.41" ytl="610.14" xbr="1663.67" ybr="689.88" rotation="25.90" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="LeftFinger-56.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1502.78" ytl="599.54" xbr="1577.04" ybr="679.27" rotation="21.80" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="LeftFinger-57.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1357.81" ytl="542.96" xbr="1432.07" ybr="622.70" rotation="21.10" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="LeftFinger-58.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1165.10" ytl="514.67" xbr="1239.36" ybr="594.41" rotation="23.00" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="LeftFinger-59.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="952.95" ytl="505.83" xbr="1027.20" ybr="585.57" rotation="22.10" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="LeftFinger-6.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="948.40" ytl="141.37" xbr="1025.89" ybr="221.10" rotation="68.00" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="LeftFinger-60.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="742.45" ytl="510.02" xbr="820.59" ybr="589.75" rotation="19.50" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="LeftFinger-61.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="567.54" ytl="507.60" xbr="643.52" ybr="587.34" rotation="26.60" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="LeftFinger-62.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="431.40" ytl="479.32" xbr="507.38" ybr="559.05" rotation="27.40" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="LeftFinger-63.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="387.20" ytl="362.63" xbr="464.99" ybr="442.36" rotation="30.20" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="LeftFinger-64.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="316.49" ytl="258.32" xbr="394.27" ybr="338.05" rotation="28.30" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="LeftFinger-65.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="251.07" ytl="154.01" xbr="328.85" ybr="233.75" rotation="24.60" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="LeftFinger-66.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="240.46" ytl="104.51" xbr="318.24" ybr="184.24" rotation="31.80" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="LeftFinger-67.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="252.84" ytl="108.04" xbr="330.62" ybr="187.78" rotation="37.20" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="LeftFinger-68.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="254.61" ytl="109.81" xbr="332.39" ybr="189.55" rotation="43.30" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="LeftFinger-7.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1127.98" ytl="111.58" xbr="1205.76" ybr="191.31" rotation="68.00" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="LeftFinger-8.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1341.90" ytl="81.52" xbr="1419.68" ybr="161.26" rotation="69.20" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="LeftFinger-9.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1506.32" ytl="131.03" xbr="1584.10" ybr="210.76" rotation="66.80" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="RightFinger-1.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1449.75" ytl="527.05" xbr="1527.53" ybr="606.78" rotation="326.20" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="RightFinger-10.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1410.85" ytl="608.38" xbr="1488.63" ybr="688.11" rotation="326.40" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="RightFinger-11.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1301.24" ytl="613.68" xbr="1375.49" ybr="693.41" rotation="318.60" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="RightFinger-12.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="944.11" ytl="604.84" xbr="1021.89" ybr="684.57" rotation="316.70" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="RightFinger-13.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="651.94" ytl="647.82" xbr="729.88" ybr="727.56" rotation="318.70" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="RightFinger-14.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="419.03" ytl="670.25" xbr="496.81" ybr="749.99" rotation="319.90" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="RightFinger-15.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="236.93" ytl="739.21" xbr="314.71" ybr="818.94" rotation="319.00" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="RightFinger-16.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="297.04" ytl="532.35" xbr="374.82" ybr="612.09" rotation="313.30" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="RightFinger-17.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="362.45" ytl="313.13" xbr="440.23" ybr="392.86" rotation="311.60" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="RightFinger-18.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="353.61" ytl="192.91" xbr="431.39" ybr="272.64" rotation="322.90" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="RightFinger-19.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="445.55" ytl="222.96" xbr="523.33" ybr="302.70" rotation="321.60" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="RightFinger-2.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1435.60" ytl="479.32" xbr="1513.38" ybr="559.05" rotation="334.90" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="RightFinger-20.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="693.06" ytl="178.76" xbr="770.84" ybr="258.50" rotation="325.90" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="RightFinger-21.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1037.81" ytl="118.65" xbr="1115.59" ybr="198.39" rotation="324.80" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="RightFinger-22.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1325.99" ytl="108.04" xbr="1403.77" ybr="187.78" rotation="323.00" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="RightFinger-23.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1605.33" ytl="116.88" xbr="1683.11" ybr="196.62" rotation="326.50" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="RightFinger-24.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1640.68" ytl="240.64" xbr="1718.47" ybr="320.38" rotation="321.90" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="RightFinger-25.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1642.45" ytl="454.56" xbr="1720.23" ybr="534.30" rotation="328.60" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="RightFinger-26.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1674.28" ytl="649.04" xbr="1752.06" ybr="728.77" rotation="325.20" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="RightFinger-27.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1614.17" ytl="627.82" xbr="1691.95" ybr="707.56" rotation="318.50" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="RightFinger-28.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1375.49" ytl="440.42" xbr="1453.27" ybr="520.15" rotation="322.10" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="RightFinger-29.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1142.12" ytl="268.93" xbr="1219.90" ybr="348.66" rotation="328.60" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="RightFinger-3.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1370.19" ytl="297.22" xbr="1447.97" ybr="376.95" rotation="332.20" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="RightFinger-30.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1037.81" ytl="162.85" xbr="1115.59" ybr="242.58" rotation="329.80" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="RightFinger-31.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="947.64" ytl="221.19" xbr="1025.43" ybr="300.93" rotation="326.30" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="RightFinger-32.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="790.30" ytl="401.52" xbr="868.08" ybr="481.26" rotation="324.80" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="RightFinger-33.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="582.99" ytl="559.40" xbr="661.04" ybr="639.14" rotation="319.30" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="RightFinger-34.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="401.35" ytl="689.70" xbr="479.17" ybr="769.44" rotation="316.30" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="RightFinger-35.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="358.92" ytl="719.76" xbr="436.70" ybr="799.49" rotation="312.80" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="RightFinger-36.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="572.84" ytl="664.95" xbr="650.62" ybr="744.68" rotation="316.70" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="RightFinger-37.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="815.05" ytl="601.30" xbr="892.83" ybr="681.04" rotation="316.00" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="RightFinger-38.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1066.10" ytl="576.55" xbr="1143.88" ybr="656.29" rotation="313.10" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="RightFinger-39.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1285.33" ytl="585.39" xbr="1363.11" ybr="665.13" rotation="316.90" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="RightFinger-4.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1297.70" ytl="155.78" xbr="1375.48" ybr="235.51" rotation="331.70" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="RightFinger-40.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1129.75" ytl="488.15" xbr="1207.53" ybr="567.89" rotation="317.10" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="RightFinger-41.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="887.54" ytl="394.45" xbr="965.32" ybr="474.19" rotation="317.70" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="RightFinger-42.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="723.12" ytl="320.20" xbr="800.90" ybr="399.93" rotation="316.90" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="RightFinger-43.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="526.87" ytl="222.96" xbr="604.65" ybr="302.70" rotation="315.80" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="RightFinger-44.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="374.83" ytl="132.80" xbr="452.61" ybr="212.53" rotation="313.50" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="RightFinger-45.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="357.15" ytl="136.33" xbr="434.93" ybr="216.07" rotation="314.80" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="RightFinger-46.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="327.09" ytl="228.27" xbr="404.88" ybr="308.00" rotation="320.20" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="RightFinger-47.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="298.81" ytl="362.63" xbr="376.59" ybr="442.36" rotation="316.70" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="RightFinger-48.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="249.30" ytl="535.89" xbr="327.08" ybr="615.62" rotation="312.80" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="RightFinger-49.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="213.94" ytl="687.94" xbr="291.73" ybr="767.67" rotation="313.90" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="RightFinger-5.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1067.87" ytl="177.00" xbr="1145.65" ybr="256.73" rotation="337.10" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="RightFinger-50.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="302.34" ytl="656.11" xbr="380.12" ybr="735.84" rotation="315.10" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="RightFinger-51.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="431.40" ytl="613.68" xbr="509.18" ybr="693.42" rotation="316.40" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="RightFinger-52.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="556.93" ytl="558.87" xbr="634.71" ybr="638.61" rotation="312.60" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="RightFinger-53.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="783.23" ytl="477.55" xbr="861.01" ybr="557.28" rotation="318.30" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="RightFinger-54.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="974.17" ytl="383.84" xbr="1051.95" ybr="463.58" rotation="314.70" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="RightFinger-55.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1150.96" ytl="306.06" xbr="1228.74" ybr="385.79" rotation="319.70" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="RightFinger-56.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1304.77" ytl="205.28" xbr="1382.55" ybr="285.02" rotation="318.10" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="RightFinger-57.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1483.34" ytl="83.29" xbr="1561.12" ybr="163.03" rotation="319.20" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="RightFinger-58.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1548.75" ytl="164.62" xbr="1626.53" ybr="244.35" rotation="320.70" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="RightFinger-59.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1647.76" ytl="300.75" xbr="1725.54" ybr="380.49" rotation="319.10" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="RightFinger-6.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="818.58" ytl="208.82" xbr="896.37" ybr="288.55" rotation="336.20" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="RightFinger-60.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1718.48" ytl="413.90" xbr="1796.26" ybr="493.64" rotation="320.90" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="RightFinger-61.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1617.70" ytl="491.69" xbr="1695.48" ybr="571.42" rotation="323.30" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="RightFinger-62.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1463.89" ytl="546.50" xbr="1541.67" ybr="626.23" rotation="329.30" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="RightFinger-63.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1356.04" ytl="518.21" xbr="1433.82" ybr="597.95" rotation="322.30" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="RightFinger-64.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1170.41" ytl="366.17" xbr="1248.19" ybr="445.90" rotation="323.00" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="RightFinger-65.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="997.15" ytl="199.98" xbr="1074.93" ybr="279.71" rotation="320.30" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="RightFinger-66.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="901.68" ytl="102.74" xbr="979.46" ybr="182.47" rotation="316.70" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="RightFinger-67.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="761.79" ytl="213.11" xbr="840.82" ybr="292.85" rotation="324.70" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="RightFinger-68.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="625.88" ytl="355.56" xbr="703.66" ybr="435.29" rotation="326.70" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="RightFinger-69.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="493.28" ytl="502.30" xbr="571.06" ybr="582.03" rotation="320.70" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="RightFinger-7.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="800.91" ytl="276.00" xbr="878.69" ybr="355.73" rotation="342.40" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="RightFinger-70.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="507.43" ytl="565.95" xbr="585.21" ybr="645.68" rotation="318.70" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="RightFinger-71.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="710.74" ytl="601.30" xbr="788.53" ybr="681.04" rotation="320.20" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="RightFinger-72.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="922.89" ytl="604.84" xbr="1000.68" ybr="684.57" rotation="315.50" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="RightFinger-8.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="972.27" ytl="377.91" xbr="1049.80" ybr="457.64" rotation="337.20" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="RightFinger-9.jpeg" width="1920" height="1088">
+    <box label="finger" occluded="0" source="manual" xtl="1196.93" ytl="523.51" xbr="1274.71" ybr="603.25" rotation="325.10" z_order="0">
+    </box>
+  </image>
+</annotations>
