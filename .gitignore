@@ -1,0 +1,11 @@
+# Custom
+datasets/test/*
+datasets/train/*
+datasets/valid/*
+datasets/coco128
+datasets/*.yaml
+datasets/*.txt
+
+**/__pycache__/
+*.pyc
+.idea/
